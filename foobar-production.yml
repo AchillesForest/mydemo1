@@ -1,4 +1,4 @@
-profile: profile-refresh-in-producion
+profile: 2-second-profile-refresh-in-producion
 spring:
  application:
   name:
