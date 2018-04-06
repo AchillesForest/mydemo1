@@ -3,4 +3,4 @@ profile:
 spring:
  application:
   name:
-   production-server
+   production-server-config
