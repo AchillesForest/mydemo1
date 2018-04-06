@@ -1,4 +1,4 @@
-profile: 4-profile-refresh-in-producion
+profile: 6-profile-refresh-in-producion
 spring:
  application:
   name:
