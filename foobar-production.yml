@@ -1,4 +1,4 @@
-profile: 1-rabbitmq-springcloud-bus-refresh-in-producion
+profile: 22222-rabbitmq-springcloud-bus-refresh-in-producion
 spring:
  application:
   name:
